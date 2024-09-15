@@ -45,21 +45,15 @@ After downloading all the compressed files, uncompress the datasets using the co
       │     └── ...
       └── test-unseen_obj-unseen_template/
             └── ...
+
     
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
 Hogun Kee - hogun.kee@rllab.snu.ac.kr
 
 Wooseok Oh - wooseok.oh@rllab.snu.ac.kr
+
 
 ## Citation
 
@@ -72,3 +66,11 @@ If you find our dataset useful in your research, plase cite:
         url = {https://github.com/rllab-snu/TTU-Dataset/},
         year = {2024}
     }
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
