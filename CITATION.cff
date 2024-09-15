@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: TTU Dataset
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Hogun
+    family-names: Kee
+    email: hogun.kee@rllab.snu.ac.kr
+  - given-names: Wooseok
+    family-names: Oh
+    email: wooseok.oh@rllab.snu.ac.kr
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.13763961
+repository-code: 'https://github.com/rllab-snu/TTU-Dataset/'
+abstract: Tabletop Tidying Up (TTU) Dataset
+license: MIT
+version: 1.0.0
+date-released: '2024-09-15'
