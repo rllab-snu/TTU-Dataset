@@ -59,14 +59,13 @@ Wooseok Oh - wooseok.oh@rllab.snu.ac.kr
 
 If you find our dataset useful in your research, plase cite:
 
-    @misc{Kee_TTU_Dataset_2024,
+    @misc{Kee_TTU_Dataset_Dataset_2024,
         author = {Kee, Hogun and Oh, Wooseok},
         month = sep,
-        title = {{TTU Dataset}},
+        title = {{TTU Dataset: Dataset for Tabletop Tidying Up Problem}},
         url = {https://github.com/rllab-snu/TTU-Dataset/},
         year = {2024}
     }
-
 
 <!-- LICENSE -->
 ## License
