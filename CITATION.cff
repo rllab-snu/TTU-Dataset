@@ -14,6 +14,9 @@ authors:
   - given-names: Wooseok
     family-names: Oh
     email: wooseok.oh@rllab.snu.ac.kr
+  - given-names: Songhwai
+    family-names: Oh
+    email: songhwai@snu.ac.kr
 identifiers:
   - type: doi
     value: 10.5281/zenodo.13763961
